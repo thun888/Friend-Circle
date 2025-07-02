@@ -226,7 +226,7 @@ def process_friend(friend, session, count, specific_RSS=[]):
     返回：
     dict: 包含朋友博客信息的字典。
     """
-    name, blog_url, avatar = friend
+    name, blog_url, avatar, description, screenshot = friend
     
     # 如果 specific_RSS 中有对应的 name，则直接返回 feed_url
     if specific_RSS is None:
