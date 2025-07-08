@@ -81,7 +81,7 @@ if config["email_push"]["enable"] or config["rss_subscribe"]["enable"]:
     if not password or not sender_email or not server or not port:
         logging.error("❌ 环境变量 SMTP_PWD 未设置，无法发送邮件")
     else:
-        logging.info(f"🔐 密码(部分)：{password[:3]}*****")
+        # logging.info(f"🔐 密码(部分)：{password[:3]}*****")
         SMTP_isReady = True
 
 # ========== 邮件推送（待实现）==========
