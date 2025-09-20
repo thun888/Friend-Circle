@@ -2,6 +2,7 @@ import logging
 import json
 import sys
 import os
+import requests
 
 from friend_circle_lite.get_info import (
     fetch_and_process_data,
@@ -66,6 +67,8 @@ server = ""
 port = 0
 use_tls = False
 password = ""
+tg_chat_id = ""
+tg_bot_token = ""
 
 if config["email_push"]["enable"] or config["rss_subscribe"]["enable"]:
     logging.info("📨 推送功能已启用，正在准备中...")
@@ -76,6 +79,8 @@ if config["email_push"]["enable"] or config["rss_subscribe"]["enable"]:
     port = smtp_conf["port"]
     use_tls = smtp_conf["use_tls"]
     password = os.getenv("SMTP_PWD")
+    tg_chat_id = config["tg"]["chat_id"]
+    tg_bot_token = os.getenv("TG_BOT_TOKEN")
 
     logging.info(f"📡 SMTP 服务器：{server}:{port}")
     if not password or not sender_email or not server or not port:
@@ -151,7 +156,7 @@ if config["rss_subscribe"]["enable"] and SMTP_isReady:
                 smtp_server=server,
                 port=port,
                 password=password,
-                subject=f"{website_title} の最新文章：{article['title']}",
+                subject=f"{website_title} 的最新文章：{article['title']}",
                 body=(
                     f"📄 文章标题：{article['title']}\n"
                     f"🔗 链接：{article['link']}\n"
@@ -162,3 +167,20 @@ if config["rss_subscribe"]["enable"] and SMTP_isReady:
                 template_data=template_data,
                 use_tls=use_tls
             )
+
+            # Push to Talegram Channel
+            title = "#NewArticle"
+            message = f"🥳 有新文章：[{article['title']}]({article['link']})\n📝 简介：{article['summary']}\n"
+            url = f"https://api.telegram.org/bot{tg_bot_token}/sendMessage"
+            payload = {
+                "chat_id": tg_chat_id,
+                "text": f"{title} \n {message}",
+                "parse_mode": "Markdown",
+                "disable_web_page_preview": "true"
+            }
+
+            response = requests.post(url, data=payload)
+            if response.json()["ok"]:
+                print("推送到频道成功")
+            else:
+                print(response.json())

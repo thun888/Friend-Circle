@@ -46,6 +46,7 @@ jobs:
     - name: Check RSS feeds
       env:
         SMTP_PWD: ${{ secrets.SMTP_PWD }}
+        TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
         FCL_REPO: ${{ github.repository }}
       run: |
         echo "Checking RSS feeds..."
@@ -76,7 +77,7 @@ jobs:
     - name: Delete Workflow Runs
       uses: Mattraks/delete-workflow-runs@v2
       with:
-        retain_days: 30
+        retain_days: 10
         keep_minimum_runs: 6
 
   keepalive-workflow:
