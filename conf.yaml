@@ -63,8 +63,8 @@ tg:
 #   url:                指定的RSS地址
 specific_RSS:
   - name: "祈星海"
-    url: "https://politepol.com/fd/jNy2zbkJJfXO.xml"
-  - name: "Xlenco"
-    url: "https://politepol.com/fd/ZNNVoTeVLp8B.xml"
-  - name: "凌云·LinYun"
-    url: "https://blog.linyunlink.top/rss/feed.xml"
+    url: "https://server.zzzzhi.com/rss.xml"
+  # - name: "Xlenco"
+  #   url: "https://politepol.com/fd/ZNNVoTeVLp8B.xml"
+  # - name: "凌云·LinYun"
+  #   url: "https://blog.linyunlink.top/rss/feed.xml"

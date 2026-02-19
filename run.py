@@ -55,7 +55,9 @@ if config["spider_settings"]["enable"]:
 
     with open("all.json", "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
-
+    with open("results_30.json", "w", encoding="utf-8") as f:
+        result = deal_with_large_data(result, max_articles=30)
+        json.dump(result, f, ensure_ascii=False, indent=2)
     with open("errors.json", "w", encoding="utf-8") as f:
         json.dump(lost_friends, f, ensure_ascii=False, indent=2)
 
