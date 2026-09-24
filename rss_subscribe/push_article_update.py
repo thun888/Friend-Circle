@@ -76,12 +76,12 @@ def get_latest_articles_from_link(url, count=5, last_articles_path="./rss_subscr
     # 获取最新的文章数据
     latest_data = parse_feed(feed_url, session ,count)
     latest_articles = latest_data['articles']
-    
     # 读取本地存储的上次的文章数据
     if os.path.exists(local_file):
         with open(local_file, 'r', encoding='utf-8') as file:
             last_data = json.load(file)
     else:
+        print(f"本地存储的文章数据文件 {local_file} 不存在，将创建一个新的文件。")
         last_data = {'articles': []}
     
     last_articles = last_data['articles']
@@ -101,5 +101,5 @@ def get_latest_articles_from_link(url, count=5, last_articles_path="./rss_subscr
         json.dump({'articles': latest_articles}, file, ensure_ascii=False, indent=4)
     
     # 如果有更新的文章，返回这些文章，否则返回 None
-    return updated_articles if updated_articles else None
+    return updated_articles if (updated_articles and os.path.exists(local_file)) else None
 
