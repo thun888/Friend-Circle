@@ -1,0 +1,368 @@
+{
+  "statistical_data": {
+    "friends_num": 26,
+    "active_num": 21,
+    "error_num": 5,
+    "article_num": 51,
+    "last_updated_time": "2026-10-11 03:53:15"
+  },
+  "article_data": [
+    {
+      "title": "论坛 SEO 实战：从零散帖子到权重跃升的 5 个动作",
+      "created": "2026-10-05 00:00",
+      "link": "https://dusays.com/posts/891/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "GDPC宿舍电费查询：从 Windows 托盘到 Android 应用",
+      "created": "2026-10-04 07:47",
+      "link": "https://blog.lvbyte.top/posts/dorm-power-two-clients/",
+      "author": "字节君",
+      "avatar": "https://npm.elemecdn.com/lvbyte-cdn/20230104/%E8%8B%B9%E6%9E%9C.156l7bksen40.jpg"
+    },
+    {
+      "title": "勇闯“无人区”",
+      "created": "2026-10-03 23:23",
+      "link": "https://blog.kfdzcoffee.cn/archives/composition-3",
+      "author": "咖啡豆子coffee的小站",
+      "avatar": "https://gate.assets.hzchu.top/fs/old/files/mount/pic/myself/2024/11/1730466514449.png@!avatar"
+    },
+    {
+      "title": "月记 17：2026 年 9 月小结",
+      "created": "2026-09-30 08:00",
+      "link": "https://www.linexic.top/post/monthly-17-2026-sept/",
+      "author": "LineXic's website",
+      "avatar": "/img/friends/friends-avatar_linexic-top.webp"
+    },
+    {
+      "title": "我家猫叫西瓜",
+      "created": "2026-09-29 00:00",
+      "link": "https://dusays.com/posts/890/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "一份中秋礼盒",
+      "created": "2026-09-23 00:00",
+      "link": "https://dusays.com/posts/889/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "关于AIGC，本站，或者说，我，会有什么态度",
+      "created": "2026-09-20 22:52",
+      "link": "https://blog.kfdzcoffee.cn/archives/viewsaboutAIGC",
+      "author": "咖啡豆子coffee的小站",
+      "avatar": "https://gate.assets.hzchu.top/fs/old/files/mount/pic/myself/2024/11/1730466514449.png@!avatar"
+    },
+    {
+      "title": "万物皆可Plugin —— 将腾讯云 DNSPod 接入 ChatGPT Plugin",
+      "created": "2026-09-20 15:52",
+      "link": "https://keke.su/posts/2026-09-20-new-1.html",
+      "author": "小可の聚集地",
+      "avatar": "/img/friends/friends-avatar_keke_su.png"
+    },
+    {
+      "title": "读马特·海格《活下去的理由》",
+      "created": "2026-09-19 08:00",
+      "link": "https://www.linexic.top/post/huo-xia-qu-de-li-you/",
+      "author": "LineXic's website",
+      "avatar": "/img/friends/friends-avatar_linexic-top.webp"
+    },
+    {
+      "title": "开源的终点是收费：MinIO 砍掉 WebUI，Mattermost 限制聊天数量",
+      "created": "2026-09-17 00:00",
+      "link": "https://dusays.com/posts/888/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "万物皆可Plugin —— 将阿里云 ESA MCP 接入 ChatGPT Plugin",
+      "created": "2026-09-14 21:42",
+      "link": "https://keke.su/posts/2026-09-15-new-1.html",
+      "author": "小可の聚集地",
+      "avatar": "/img/friends/friends-avatar_keke_su.png"
+    },
+    {
+      "title": "博客三周年记",
+      "created": "2026-09-11 08:00",
+      "link": "https://www.linexic.top/post/blog-three-year/",
+      "author": "LineXic's website",
+      "avatar": "/img/friends/friends-avatar_linexic-top.webp"
+    },
+    {
+      "title": "Python 脚本自动化实战:让重复工作一键完成",
+      "created": "2026-09-11 00:00",
+      "link": "https://dusays.com/posts/887/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "我知一切顺利是美好的祝愿",
+      "created": "2026-09-10 06:37",
+      "link": "https://flyalready.com/2026-08-04-stories-of-our-pasts/",
+      "author": "宇宙尽头的餐馆",
+      "avatar": "/img/friends/friends-avatar_infinitesum-avatar.webp"
+    },
+    {
+      "title": "月记 16：我的八月",
+      "created": "2026-09-05 08:00",
+      "link": "https://www.linexic.top/post/monthly-16-my-aug/",
+      "author": "LineXic's website",
+      "avatar": "/img/friends/friends-avatar_linexic-top.webp"
+    },
+    {
+      "title": "醇香小记·第二十二期",
+      "created": "2026-08-29 00:32",
+      "link": "https://blog.kfdzcoffee.cn/archives/mellownote22",
+      "author": "咖啡豆子coffee的小站",
+      "avatar": "https://gate.assets.hzchu.top/fs/old/files/mount/pic/myself/2024/11/1730466514449.png@!avatar"
+    },
+    {
+      "title": "Stellar 为什么没能火起来",
+      "created": "2026-08-15 02:14",
+      "link": "https://xaoxuu.com/blog/20260815/",
+      "author": "xaoxuu",
+      "avatar": "/img/friends/friends-avatar_xaoxuu-com.webp"
+    },
+    {
+      "title": "openEuler 操作系统网络连接",
+      "created": "2026-08-14 12:23",
+      "link": "https://lxnchan.cn/nmtui-usage.html",
+      "author": "泠泫凝的异次元空间",
+      "avatar": "/img/friends/friends-avatar_lxnchan.webp"
+    },
+    {
+      "title": "Ungoogled Chromium 初体验安装",
+      "created": "2026-08-12 08:00",
+      "link": "https://www.linexic.top/post/ungoogled-chromium-install/",
+      "author": "LineXic's website",
+      "avatar": "/img/friends/friends-avatar_linexic-top.webp"
+    },
+    {
+      "title": "小说·序章+第一章",
+      "created": "2026-08-11 22:42",
+      "link": "https://blog.kfdzcoffee.cn/archives/novel-x-1",
+      "author": "咖啡豆子coffee的小站",
+      "avatar": "https://gate.assets.hzchu.top/fs/old/files/mount/pic/myself/2024/11/1730466514449.png@!avatar"
+    },
+    {
+      "title": "修复 R9000P 2024 在 Win10 上 Nahimic 不可用的问题",
+      "created": "2026-08-09 12:23",
+      "link": "https://lxnchan.cn/r9000p-2024-nahimic-win10-fix.html",
+      "author": "泠泫凝的异次元空间",
+      "avatar": "/img/friends/friends-avatar_lxnchan.webp"
+    },
+    {
+      "title": "2026 年，AI 能写出我想说的话吗？",
+      "created": "2026-08-09 08:00",
+      "link": "https://qwqwq.com/2026/08/writing-in-the-age-of-ai/",
+      "author": "QWQAQ",
+      "avatar": "/img/friends/friends-avatar_qwqaq.webp"
+    },
+    {
+      "title": "梦境：无法定格的偶遇",
+      "created": "2026-08-01 15:24",
+      "link": "https://xaoxuu.com/blog/20260801/",
+      "author": "xaoxuu",
+      "avatar": "/img/friends/friends-avatar_xaoxuu-com.webp"
+    },
+    {
+      "title": "Ring of Fortune 可塑性记忆OP（转载）",
+      "created": "2026-07-28 11:03",
+      "link": "https://blog.kfdzcoffee.cn/archives/ringoffortune",
+      "author": "咖啡豆子coffee的小站",
+      "avatar": "https://gate.assets.hzchu.top/fs/old/files/mount/pic/myself/2024/11/1730466514449.png@!avatar"
+    },
+    {
+      "title": "陨落的一代神卡Giffgaff：使用经历与反思",
+      "created": "2026-07-28 08:00",
+      "link": "https://blog.linyunlink.top/posts/260728/",
+      "author": "凌云·LinYun",
+      "avatar": "/img/friends/friends-avatar_linyunlink-top.webp"
+    },
+    {
+      "title": "博客的搬家日记",
+      "created": "2026-07-26 08:00",
+      "link": "https://blog.linyunlink.top/posts/260726/",
+      "author": "凌云·LinYun",
+      "avatar": "/img/friends/friends-avatar_linyunlink-top.webp"
+    },
+    {
+      "title": "ubuntu 24.04 编译时报错找不到 libtinfo.so.5",
+      "created": "2026-07-20 12:23",
+      "link": "https://lxnchan.cn/ubuntu24-libtinfoso5.html",
+      "author": "泠泫凝的异次元空间",
+      "avatar": "/img/friends/friends-avatar_lxnchan.webp"
+    },
+    {
+      "title": "rclone 挂载 cloudflare R2 及使用",
+      "created": "2026-07-17 12:23",
+      "link": "https://lxnchan.cn/rclone-r2.html",
+      "author": "泠泫凝的异次元空间",
+      "avatar": "/img/friends/friends-avatar_lxnchan.webp"
+    },
+    {
+      "title": "手动编译 Rockchip BSP 内核并安装到设备",
+      "created": "2026-07-15 12:23",
+      "link": "https://lxnchan.cn/rockchip-mpp-kernel.html",
+      "author": "泠泫凝的异次元空间",
+      "avatar": "/img/friends/friends-avatar_lxnchan.webp"
+    },
+    {
+      "title": "趁着端午假期，把博客从Hexo迁移回了Typecho",
+      "created": "2026-06-21 08:26",
+      "link": "https://careful.fyi/archives/954460.html",
+      "author": "谨言慎行",
+      "avatar": "/img/friends/friends-avatar_careful-fyi.png"
+    },
+    {
+      "title": "Codex 订阅一物多用：通过 CPA 代理输出 OpenAI 标准接口",
+      "created": "2026-05-08 18:53",
+      "link": "https://keke.su/posts/2026-05-08-new-1.html",
+      "author": "小可の聚集地",
+      "avatar": "/img/friends/friends-avatar_keke_su.png"
+    },
+    {
+      "title": "使用CloudFlare Workers搭建网页截图API",
+      "created": "2026-03-02 14:15",
+      "link": "https://careful.fyi/archives/187982.html",
+      "author": "谨言慎行",
+      "avatar": "/img/friends/friends-avatar_careful-fyi.png"
+    },
+    {
+      "title": "连续两个晚上做梦笑醒",
+      "created": "2026-02-26 20:00",
+      "link": "https://xaoxuu.com/blog/20260226/",
+      "author": "xaoxuu",
+      "avatar": "/img/friends/friends-avatar_xaoxuu-com.webp"
+    },
+    {
+      "title": "快速搭建&迁移S3 —— 手把手教你从MinIO迁移到Garage",
+      "created": "2026-01-25 18:24",
+      "link": "https://keke.su/posts/2026-01-25-new-1.html",
+      "author": "小可の聚集地",
+      "avatar": "/img/friends/friends-avatar_keke_su.png"
+    },
+    {
+      "title": "2025 年度 OKR 复盘",
+      "created": "2026-01-16 20:36",
+      "link": "https://xaoxuu.com/blog/20260116/",
+      "author": "xaoxuu",
+      "avatar": "/img/friends/friends-avatar_xaoxuu-com.webp"
+    },
+    {
+      "title": "配置 Zapret 让 Cloudflare Tunnel 在特殊网络重新连通",
+      "created": "2025-12-12 22:34",
+      "link": "https://keke.su/posts/2025-12-12-new-1.html",
+      "author": "小可の聚集地",
+      "avatar": "/img/friends/friends-avatar_keke_su.png"
+    },
+    {
+      "title": "在混乱中建立秩序：Stellar 产品设计与工程重构复盘",
+      "created": "2025-10-13 20:36",
+      "link": "https://xaoxuu.com/blog/20251013/",
+      "author": "xaoxuu",
+      "avatar": "/img/friends/friends-avatar_xaoxuu-com.webp"
+    },
+    {
+      "title": "阿里云ESA试水~",
+      "created": "2025-08-18 08:00",
+      "link": "https://blog.linyunlink.top/posts/250818/",
+      "author": "凌云·LinYun",
+      "avatar": "/img/friends/friends-avatar_linyunlink-top.webp"
+    },
+    {
+      "title": "给博客添加一个自动更新基金持仓盈亏的页面",
+      "created": "2025-07-15 15:06",
+      "link": "https://careful.fyi/archives/549988.html",
+      "author": "谨言慎行",
+      "avatar": "/img/friends/friends-avatar_careful-fyi.png"
+    },
+    {
+      "title": "Azure学生订阅1：白嫖免费的MySQL和PostgreSQL",
+      "created": "2025-06-22 08:00",
+      "link": "https://blog.linyunlink.top/posts/250622/",
+      "author": "凌云·LinYun",
+      "avatar": "/img/friends/friends-avatar_linyunlink-top.webp"
+    },
+    {
+      "title": "2faWeb：无服务部署的在线二步验证器",
+      "created": "2025-05-24 23:34",
+      "link": "https://blog.lvbyte.top/posts/3b7df8e9/",
+      "author": "字节君",
+      "avatar": "https://npm.elemecdn.com/lvbyte-cdn/20230104/%E8%8B%B9%E6%9E%9C.156l7bksen40.jpg"
+    },
+    {
+      "title": "绿联云Docker默认的Bridge网络开启IPv6",
+      "created": "2025-04-04 17:30",
+      "link": "https://careful.fyi/archives/987981.html",
+      "author": "谨言慎行",
+      "avatar": "/img/friends/friends-avatar_careful-fyi.png"
+    },
+    {
+      "title": "用PbootCMS制作的站点被挂木马分析及清理",
+      "created": "2025-04-02 16:55",
+      "link": "https://careful.fyi/archives/start.html",
+      "author": "谨言慎行",
+      "avatar": "/img/friends/friends-avatar_careful-fyi.png"
+    },
+    {
+      "title": "终于兑换上必应的礼品卡辣！",
+      "created": "2024-12-06 08:00",
+      "link": "https://blog.linyunlink.top/posts/241206/",
+      "author": "凌云·LinYun",
+      "avatar": "/img/friends/friends-avatar_linyunlink-top.webp"
+    },
+    {
+      "title": "stellar主题集成Telegram Channel说说",
+      "created": "2024-02-17 16:44",
+      "link": "https://blog.lvbyte.top/posts/11214/",
+      "author": "字节君",
+      "avatar": "https://npm.elemecdn.com/lvbyte-cdn/20230104/%E8%8B%B9%E6%9E%9C.156l7bksen40.jpg"
+    },
+    {
+      "title": "出售一台美国雨云2H2G",
+      "created": "2023-08-27 10:55",
+      "link": "https://blog.lvbyte.top/posts/rainyun-vps-sell/",
+      "author": "字节君",
+      "avatar": "https://npm.elemecdn.com/lvbyte-cdn/20230104/%E8%8B%B9%E6%9E%9C.156l7bksen40.jpg"
+    },
+    {
+      "title": "Cloudflare为你的网站保驾护航",
+      "created": "2023-08-25 19:45",
+      "link": "https://blog.lvbyte.top/posts/cloudflare-protecting/",
+      "author": "字节君",
+      "avatar": "https://npm.elemecdn.com/lvbyte-cdn/20230104/%E8%8B%B9%E6%9E%9C.156l7bksen40.jpg"
+    },
+    {
+      "title": "Matter 关系宇宙：520 特别策划活动",
+      "created": "2023-05-20 21:00",
+      "link": "https://qwqwq.com/projects/matter/",
+      "author": "QWQAQ",
+      "avatar": "/img/friends/friends-avatar_qwqaq.webp"
+    },
+    {
+      "title": "微服务架构概述",
+      "created": "2023-04-23 19:54",
+      "link": "https://qwqwq.com/2023/04/an-introduction-to-microservices/",
+      "author": "QWQAQ",
+      "avatar": "/img/friends/friends-avatar_qwqaq.webp"
+    },
+    {
+      "title": "低成本 Mesh 组网方案",
+      "created": "2022-07-27 11:41",
+      "link": "https://qwqwq.com/2022/07/netgear-r6300v2-mesh/",
+      "author": "QWQAQ",
+      "avatar": "/img/friends/friends-avatar_qwqaq.webp"
+    },
+    {
+      "title": "API 内容分页设计方案",
+      "created": "2022-07-24 10:19",
+      "link": "https://qwqwq.com/2022/07/api-pagination-design/",
+      "author": "QWQAQ",
+      "avatar": "/img/friends/friends-avatar_qwqaq.webp"
+    }
+  ]
+}
