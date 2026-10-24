@@ -1,0 +1,368 @@
+{
+  "statistical_data": {
+    "friends_num": 26,
+    "active_num": 22,
+    "error_num": 4,
+    "article_num": 51,
+    "last_updated_time": "2026-10-25 02:41:21"
+  },
+  "article_data": [
+    {
+      "title": "亮相",
+      "created": "2026-10-24 20:22",
+      "link": "https://blog.kfdzcoffee.cn/archives/composition-4",
+      "author": "咖啡豆子coffee的小站",
+      "avatar": "https://gate.assets.hzchu.top/fs/old/files/mount/pic/myself/2024/11/1730466514449.png@!avatar"
+    },
+    {
+      "title": "国产数据库迁移：真正花时间的从来不是搬数据",
+      "created": "2026-10-23 00:00",
+      "link": "https://dusays.com/posts/894/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "说说广场 API 0.31.0 版的调用代码说明",
+      "created": "2026-10-17 00:00",
+      "link": "https://dusays.com/posts/893/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "给博客接上 Steam：一个实时同步的游戏库页面",
+      "created": "2026-10-16 23:50",
+      "link": "https://blog.lvbyte.top/posts/steam-library-live/",
+      "author": "字节君",
+      "avatar": "https://npm.elemecdn.com/lvbyte-cdn/20230104/%E8%8B%B9%E6%9E%9C.156l7bksen40.jpg"
+    },
+    {
+      "title": "Steam Deck 初体验与折腾指南",
+      "created": "2026-10-16 17:46",
+      "link": "https://blog.lvbyte.top/posts/steam-deck-guide/",
+      "author": "字节君",
+      "avatar": "https://npm.elemecdn.com/lvbyte-cdn/20230104/%E8%8B%B9%E6%9E%9C.156l7bksen40.jpg"
+    },
+    {
+      "title": "2026 我还是没打算做成年人",
+      "created": "2026-10-15 08:00",
+      "link": "https://flyalready.com/2026-10-15-isnt-it-pretty-to-think-so/",
+      "author": "宇宙尽头的餐馆",
+      "avatar": "/img/friends/friends-avatar_infinitesum-avatar.webp"
+    },
+    {
+      "title": "修改Nginx配置文件，禁止直接IP访问",
+      "created": "2026-10-12 22:42",
+      "link": "https://blog.wyj5211.top/archives/nginx-noip.html",
+      "author": "wyj5211的小站",
+      "avatar": "/img/friends/friends-avatar_5802ef407e84292358999b15c6cd39de.webp"
+    },
+    {
+      "title": "Redis vs Valkey：性能实测对比 + 无缝迁移指南",
+      "created": "2026-10-11 00:00",
+      "link": "https://dusays.com/posts/892/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "软件分享 - Windows副屏信息展示软件",
+      "created": "2026-10-08 19:06",
+      "link": "https://blog.wyj5211.top/archives/SubScreen.html",
+      "author": "wyj5211的小站",
+      "avatar": "/img/friends/friends-avatar_5802ef407e84292358999b15c6cd39de.webp"
+    },
+    {
+      "title": "论坛 SEO 实战：从零散帖子到权重跃升的 5 个动作",
+      "created": "2026-10-05 00:00",
+      "link": "https://dusays.com/posts/891/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "GDPC宿舍电费查询：从 Windows 托盘到 Android 应用",
+      "created": "2026-10-04 07:47",
+      "link": "https://blog.lvbyte.top/posts/dorm-power-two-clients/",
+      "author": "字节君",
+      "avatar": "https://npm.elemecdn.com/lvbyte-cdn/20230104/%E8%8B%B9%E6%9E%9C.156l7bksen40.jpg"
+    },
+    {
+      "title": "勇闯“无人区”",
+      "created": "2026-10-03 23:23",
+      "link": "https://blog.kfdzcoffee.cn/archives/composition-3",
+      "author": "咖啡豆子coffee的小站",
+      "avatar": "https://gate.assets.hzchu.top/fs/old/files/mount/pic/myself/2024/11/1730466514449.png@!avatar"
+    },
+    {
+      "title": "月记 17：2026 年 9 月小结",
+      "created": "2026-09-30 08:00",
+      "link": "https://www.linexic.top/post/monthly-17-2026-sept/",
+      "author": "LineXic's website",
+      "avatar": "/img/friends/friends-avatar_linexic-top.webp"
+    },
+    {
+      "title": "我家猫叫西瓜",
+      "created": "2026-09-29 00:00",
+      "link": "https://dusays.com/posts/890/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "Soi kèo San Marino vs Albania ngày 30/09: Khách được đánh giá cao hơn",
+      "created": "2026-09-27 07:28",
+      "link": "https://skira.top/soi-keo-san-marino-vs-albania/",
+      "author": "柠萌の部落",
+      "avatar": "/img/friends/friends-avatar_65d870092bcba.webp"
+    },
+    {
+      "title": "Soi kèo CH Séc vs Anh ngày 30/09: Thử thách lớn cho đội chủ nhà",
+      "created": "2026-09-26 07:24",
+      "link": "https://skira.top/soi-keo-ch-sec-vs-anh/",
+      "author": "柠萌の部落",
+      "avatar": "/img/friends/friends-avatar_65d870092bcba.webp"
+    },
+    {
+      "title": "Soi kèo Romania vs Bosnia ngày 29/09: Chủ nhà quyết tâm giành điểm",
+      "created": "2026-09-25 07:20",
+      "link": "https://skira.top/soi-keo-romania-vs-bosnia/",
+      "author": "柠萌の部落",
+      "avatar": "/img/friends/friends-avatar_65d870092bcba.webp"
+    },
+    {
+      "title": "Soi kèo Bỉ vs Pháp ngày 29/09: Chủ nhà đối diện thử thách lớn",
+      "created": "2026-09-24 07:00",
+      "link": "https://skira.top/soi-keo-bi-vs-phap/",
+      "author": "柠萌の部落",
+      "avatar": "/img/friends/friends-avatar_65d870092bcba.webp"
+    },
+    {
+      "title": "Soi kèo Na Uy vs Bồ Đào Nha ngày 28/09: Thử thách lớn cho đội chủ nhà",
+      "created": "2026-09-23 07:12",
+      "link": "https://skira.top/soi-keo-na-uy-vs-bo-dao-nha/",
+      "author": "柠萌の部落",
+      "avatar": "/img/friends/friends-avatar_65d870092bcba.webp"
+    },
+    {
+      "title": "关于AIGC，本站，或者说，我，会有什么态度",
+      "created": "2026-09-20 22:52",
+      "link": "https://blog.kfdzcoffee.cn/archives/viewsaboutAIGC",
+      "author": "咖啡豆子coffee的小站",
+      "avatar": "https://gate.assets.hzchu.top/fs/old/files/mount/pic/myself/2024/11/1730466514449.png@!avatar"
+    },
+    {
+      "title": "万物皆可Plugin —— 将腾讯云 DNSPod 接入 ChatGPT Plugin",
+      "created": "2026-09-20 15:52",
+      "link": "https://keke.su/posts/2026-09-20-new-1.html",
+      "author": "小可の聚集地",
+      "avatar": "/img/friends/friends-avatar_keke_su.png"
+    },
+    {
+      "title": "关于河北“一市一校服”政策的自我解读",
+      "created": "2026-09-19 08:00",
+      "link": "https://www.linexic.top/post/he-bei-yi-shi-yi-xiao-fu/",
+      "author": "LineXic's website",
+      "avatar": "/img/friends/friends-avatar_linexic-top.webp"
+    },
+    {
+      "title": "读马特·海格《活下去的理由》",
+      "created": "2026-09-19 08:00",
+      "link": "https://www.linexic.top/post/huo-xia-qu-de-li-you/",
+      "author": "LineXic's website",
+      "avatar": "/img/friends/friends-avatar_linexic-top.webp"
+    },
+    {
+      "title": "万物皆可Plugin —— 将阿里云 ESA MCP 接入 ChatGPT Plugin",
+      "created": "2026-09-14 21:42",
+      "link": "https://keke.su/posts/2026-09-15-new-1.html",
+      "author": "小可の聚集地",
+      "avatar": "/img/friends/friends-avatar_keke_su.png"
+    },
+    {
+      "title": "博客三周年记",
+      "created": "2026-09-11 08:00",
+      "link": "https://www.linexic.top/post/blog-three-year/",
+      "author": "LineXic's website",
+      "avatar": "/img/friends/friends-avatar_linexic-top.webp"
+    },
+    {
+      "title": "月记 16：我的八月",
+      "created": "2026-09-05 08:00",
+      "link": "https://www.linexic.top/post/monthly-16-my-aug/",
+      "author": "LineXic's website",
+      "avatar": "/img/friends/friends-avatar_linexic-top.webp"
+    },
+    {
+      "title": "醇香小记·第二十二期",
+      "created": "2026-08-29 00:32",
+      "link": "https://blog.kfdzcoffee.cn/archives/mellownote22",
+      "author": "咖啡豆子coffee的小站",
+      "avatar": "https://gate.assets.hzchu.top/fs/old/files/mount/pic/myself/2024/11/1730466514449.png@!avatar"
+    },
+    {
+      "title": "【全网首发】逆天的博喻云管控破解方法，这谁想象得到？（已附上POC）",
+      "created": "2026-08-27 17:25",
+      "link": "https://dahi.icu/posts/boyuyun-boeyu-cracker-poc/",
+      "author": "Dahi Blog",
+      "avatar": "/img/friends/friends-avatar_64c710b059be6.webp"
+    },
+    {
+      "title": "Stellar 为什么没能火起来",
+      "created": "2026-08-15 02:14",
+      "link": "https://xaoxuu.com/blog/20260815/",
+      "author": "xaoxuu",
+      "avatar": "/img/friends/friends-avatar_xaoxuu-com.webp"
+    },
+    {
+      "title": "openEuler 操作系统网络连接",
+      "created": "2026-08-14 12:23",
+      "link": "https://lxnchan.cn/nmtui-usage.html",
+      "author": "泠泫凝的异次元空间",
+      "avatar": "/img/friends/friends-avatar_lxnchan.webp"
+    },
+    {
+      "title": "小说·序章+第一章",
+      "created": "2026-08-11 22:42",
+      "link": "https://blog.kfdzcoffee.cn/archives/novel-x-1",
+      "author": "咖啡豆子coffee的小站",
+      "avatar": "https://gate.assets.hzchu.top/fs/old/files/mount/pic/myself/2024/11/1730466514449.png@!avatar"
+    },
+    {
+      "title": "修复 R9000P 2024 在 Win10 上 Nahimic 不可用的问题",
+      "created": "2026-08-09 12:23",
+      "link": "https://lxnchan.cn/r9000p-2024-nahimic-win10-fix.html",
+      "author": "泠泫凝的异次元空间",
+      "avatar": "/img/friends/friends-avatar_lxnchan.webp"
+    },
+    {
+      "title": "梦境：无法定格的偶遇",
+      "created": "2026-08-01 15:24",
+      "link": "https://xaoxuu.com/blog/20260801/",
+      "author": "xaoxuu",
+      "avatar": "/img/friends/friends-avatar_xaoxuu-com.webp"
+    },
+    {
+      "title": "ubuntu 24.04 编译时报错找不到 libtinfo.so.5",
+      "created": "2026-07-20 12:23",
+      "link": "https://lxnchan.cn/ubuntu24-libtinfoso5.html",
+      "author": "泠泫凝的异次元空间",
+      "avatar": "/img/friends/friends-avatar_lxnchan.webp"
+    },
+    {
+      "title": "rclone 挂载 cloudflare R2 及使用",
+      "created": "2026-07-17 12:23",
+      "link": "https://lxnchan.cn/rclone-r2.html",
+      "author": "泠泫凝的异次元空间",
+      "avatar": "/img/friends/friends-avatar_lxnchan.webp"
+    },
+    {
+      "title": "手动编译 Rockchip BSP 内核并安装到设备",
+      "created": "2026-07-15 12:23",
+      "link": "https://lxnchan.cn/rockchip-mpp-kernel.html",
+      "author": "泠泫凝的异次元空间",
+      "avatar": "/img/friends/friends-avatar_lxnchan.webp"
+    },
+    {
+      "title": "Codex 订阅一物多用：通过 CPA 代理输出 OpenAI 标准接口",
+      "created": "2026-05-08 18:53",
+      "link": "https://keke.su/posts/2026-05-08-new-1.html",
+      "author": "小可の聚集地",
+      "avatar": "/img/friends/friends-avatar_keke_su.png"
+    },
+    {
+      "title": "连续两个晚上做梦笑醒",
+      "created": "2026-02-26 20:00",
+      "link": "https://xaoxuu.com/blog/20260226/",
+      "author": "xaoxuu",
+      "avatar": "/img/friends/friends-avatar_xaoxuu-com.webp"
+    },
+    {
+      "title": "快速搭建&迁移S3 —— 手把手教你从MinIO迁移到Garage",
+      "created": "2026-01-25 18:24",
+      "link": "https://keke.su/posts/2026-01-25-new-1.html",
+      "author": "小可の聚集地",
+      "avatar": "/img/friends/friends-avatar_keke_su.png"
+    },
+    {
+      "title": "2025 年度 OKR 复盘",
+      "created": "2026-01-16 20:36",
+      "link": "https://xaoxuu.com/blog/20260116/",
+      "author": "xaoxuu",
+      "avatar": "/img/friends/friends-avatar_xaoxuu-com.webp"
+    },
+    {
+      "title": "配置 Zapret 让 Cloudflare Tunnel 在特殊网络重新连通",
+      "created": "2025-12-12 22:34",
+      "link": "https://keke.su/posts/2025-12-12-new-1.html",
+      "author": "小可の聚集地",
+      "avatar": "/img/friends/friends-avatar_keke_su.png"
+    },
+    {
+      "title": "在混乱中建立秩序：Stellar 产品设计与工程重构复盘",
+      "created": "2025-10-13 20:36",
+      "link": "https://xaoxuu.com/blog/20251013/",
+      "author": "xaoxuu",
+      "avatar": "/img/friends/friends-avatar_xaoxuu-com.webp"
+    },
+    {
+      "title": "分析一个两年前发现的酷安社区漏洞，无视图片外链域限制发帖",
+      "created": "2025-06-04 17:25",
+      "link": "https://dahi.icu/posts/coolapk-any-pic/",
+      "author": "Dahi Blog",
+      "avatar": "/img/friends/friends-avatar_64c710b059be6.webp"
+    },
+    {
+      "title": "2025年中國內地 Cloudflare DNS over HTTPS (DoH) 使用教程",
+      "created": "2025-06-01 11:25",
+      "link": "https://dahi.icu/posts/cloudflare-dns-any/",
+      "author": "Dahi Blog",
+      "avatar": "/img/friends/friends-avatar_64c710b059be6.webp"
+    },
+    {
+      "title": "Bing 不索引站点全站！ 搜索结果被清空？ 不得不试试此申诉方法",
+      "created": "2025-06-01 09:25",
+      "link": "https://dahi.icu/posts/bing-no-indexing/",
+      "author": "Dahi Blog",
+      "avatar": "/img/friends/friends-avatar_64c710b059be6.webp"
+    },
+    {
+      "title": "Cloudflare 安全规则，防机器人和扫描，防黑AS",
+      "created": "2025-06-01 08:25",
+      "link": "https://dahi.icu/posts/cloudflare-waf-r/",
+      "author": "Dahi Blog",
+      "avatar": "/img/friends/friends-avatar_64c710b059be6.webp"
+    },
+    {
+      "title": "2faWeb：无服务部署的在线二步验证器",
+      "created": "2025-05-24 23:34",
+      "link": "https://blog.lvbyte.top/posts/3b7df8e9/",
+      "author": "字节君",
+      "avatar": "https://npm.elemecdn.com/lvbyte-cdn/20230104/%E8%8B%B9%E6%9E%9C.156l7bksen40.jpg"
+    },
+    {
+      "title": "邮戳的法律效力",
+      "created": "2024-11-29 17:28",
+      "link": "https://blog.wyj5211.top/archives/china-post.html",
+      "author": "wyj5211的小站",
+      "avatar": "/img/friends/friends-avatar_5802ef407e84292358999b15c6cd39de.webp"
+    },
+    {
+      "title": "使用 UMAF 自由调整 AMD 核显显存大小",
+      "created": "2024-07-18 23:18",
+      "link": "https://blog.wyj5211.top/archives/UMAF.html",
+      "author": "wyj5211的小站",
+      "avatar": "/img/friends/friends-avatar_5802ef407e84292358999b15c6cd39de.webp"
+    },
+    {
+      "title": "stellar主题集成Telegram Channel说说",
+      "created": "2024-02-17 16:44",
+      "link": "https://blog.lvbyte.top/posts/11214/",
+      "author": "字节君",
+      "avatar": "https://npm.elemecdn.com/lvbyte-cdn/20230104/%E8%8B%B9%E6%9E%9C.156l7bksen40.jpg"
+    },
+    {
+      "title": "使用 Moonlight 和 Sunshine 自建云游戏",
+      "created": "2024-01-02 17:17",
+      "link": "https://blog.wyj5211.top/archives/cloud-game.html",
+      "author": "wyj5211的小站",
+      "avatar": "/img/friends/friends-avatar_5802ef407e84292358999b15c6cd39de.webp"
+    }
+  ]
+}
