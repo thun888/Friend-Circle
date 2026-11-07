@@ -14,10 +14,10 @@ jobs:
 
     steps:
     - name: Pull Latest Repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v7
 
     - name: Cache pip packages
-      uses: actions/cache@v4
+      uses: actions/cache@v6
       with:
         path: ~/.cache/pip
         key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
@@ -25,9 +25,11 @@ jobs:
           ${{ runner.os }}-pip-
 
     - name: Install Python
-      uses: actions/setup-python@v5
+      # Python 3.9 has no build for Ubuntu 26.04 (ubuntu-latest).
+      # Keep 3.10+ here, or pin runs-on to ubuntu-24.04 if 3.9 is required.
+      uses: actions/setup-python@v7
       with:
-        python-version: '3.12'
+        python-version: '3.13'
 
     - name: Install dependencies
       run: |
@@ -35,7 +37,7 @@ jobs:
         pip install -r requirements.txt
 
     - name: Download last_articles.json artifact
-      uses: dawidd6/action-download-artifact@v6
+      uses: dawidd6/action-download-artifact@v28
       with:
         github_token: ${{secrets.GITHUB_TOKEN}}
         branch: main
@@ -53,7 +55,7 @@ jobs:
         python run.py
 
     - name: Upload last_articles.json as artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: 'last_articles'
         path: './rss_subscribe/last_articles.json'
